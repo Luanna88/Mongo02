@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6514fa43d590ac6bc9533766"
+  },
+  "nome": "Gabriel",
+  "matricula": 123456,
+  "curso": "Sistemas"
+},
+{
+  "_id": {
+    "$oid": "6514fa8ed590ac6bc9533767"
+  },
+  "nome": "Ana Maria",
+  "matricula": 654321,
+  "curso": "Jogos",
+  "disciplinas": [
+    "Desenho 3D",
+    "Java"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6514fae2d590ac6bc9533768"
+  },
+  "nome": "Beatriz",
+  "matricula": 147258,
+  "curso": "Sistemas",
+  "disciplinas": [
+    "BDOO",
+    "Backend"
+  ]
+}]
